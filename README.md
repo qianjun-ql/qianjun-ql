@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @qianjun-ql
 - 👀 I’m interested in full-stack development
-- 🌱 I’m currently learning Java
+- 🌱 I’m currently learning Java and Spring boot
 - 😄 Pronouns: She/her
 
 <!---
