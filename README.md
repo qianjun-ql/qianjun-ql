@@ -2,7 +2,7 @@
     <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hello!%20I%20am%20Qianjun%20Liang&fontSize=40&height=100&width=100&section=header" />
 </p>
 
-<h1 align="center">
+
   Let's Connect and have a Chat!💬
 </h1>
 <p align="center">
@@ -12,7 +12,6 @@
 <a href="mailto:qianjunliang.ql@gmail.com">
   <img height="30" src="./public/social/gmail.png"/>
 </a>
-</p>
 
 ---
 
