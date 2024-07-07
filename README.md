@@ -66,7 +66,7 @@
 
 
 <p>
-        <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&rotate=360" />
+        <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&rotate=180" />
 </p>
 
 <!---
