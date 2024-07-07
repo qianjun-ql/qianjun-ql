@@ -27,11 +27,6 @@
 <img src="https://img.shields.io/badge/TypeScript-black?logo=typescript&logoColor=blue" alt="ts"/>
 <img src="https://img.shields.io/badge/Java-black?logoColor=blue" alt="java"/>
 <img src="https://img.shields.io/badge/Python-black?logo=python&logoColor=blue" alt="python"/>
-
-<img src="./public/languages/javascript.svg" alt="js" width="45" height="45"/>
-<img src="./public/languages/typescript.svg" alt="ts" width="45" height="45"/>
-<img src="./public/languages/java.svg" alt="java" width="45" height="45"/>
-<img src="./public/languages/python.svg" alt="python" width="45" height="45"/>
 </p>
 
 <h2>Frameworks I have been using</h2>
