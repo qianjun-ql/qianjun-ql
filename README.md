@@ -17,7 +17,39 @@
 ---
 
 <h2>About Me</h2>
-<p></p>
+
+```yaml
+name: Qianjun(Cheryl) Liang
+location: Calgary, Alberta
+
+interests:
+  [
+    "Front-End Development",
+    "Back-end Development",
+    "Machine Learning",
+    "Product Management"
+  ]
+technicalBackground:
+  [
+    "Full-Stack Developer",
+    "Front-End Developer",
+    "Product Manager"
+  ]
+  
+currentFocus: ["Spring Boot, Django"]
+techCommunities:
+  [
+    "Tech Connect Alberta",
+    "65Square"
+  ]
+2024 Goals: [
+  [
+    "1. Deploy at least 1 Spring Boot project",
+    "2. Complete at least 1 Django project",
+    "3. Get proficient with testing tools like JEST, Cypress"
+    "4. Get familiar with Kubernetes"
+  ]
+```
 
 ---
 
