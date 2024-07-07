@@ -1,5 +1,16 @@
 <p align="center">
-    <img src="./banner.gif" />
+    <img src="./public/banner.gif" />
+</p>
+
+<h1 align="center">
+  Let's Connect and have a Chat!💬
+</h1>
+
+---
+
+<h2>Languages</h2>
+<p>
+<img src="./public/react.svg" />
 </p>
 
 <!---
