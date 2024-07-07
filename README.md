@@ -43,14 +43,6 @@
 <img src="https://img.shields.io/badge/Angular-black?logo=angular&logoColor=orange" alt="angular"/>
 <img src="https://img.shields.io/badge/Bootstrap-black?logo=bootstrap&logoColor=blue" alt="bootstrap"/>
 <img src="https://img.shields.io/badge/jquery-black?logo=jquery&logoColor=blue" alt="jquery"/>
-
-<img src="./public/frameworks/react.svg" alt="react" width="45" height="45"/>
-<img src="./public/frameworks/redux.svg" alt="redux" width="45" height="45"/>
-<img src="./public/frameworks/nodejs.svg" alt="nodejs" width="45" height="45"/>
-<img src="./public/frameworks/spring.svg" alt="nodejs" width="45" height="45"/>
-<img src="./public/frameworks/angular.svg" alt="angular" width="45" height="45"/>
-<img src="./public/frameworks/boostrap.svg" alt="bootstrap" width="45" height="45"/>
-<img src="./public/frameworks/jquery.svg" alt="jquery" width="45" height="45"/>
 </p>
 
 <h2>Database</h2>
@@ -59,9 +51,6 @@
 <img src="https://img.shields.io/badge/MySQL-black?logo=mysql&logoColor=blue"  alt="mysql"/>
 <img src="https://img.shields.io/badge/Firebase-black?logo=firebase&logoColor=yellow" alt="firebase"/>
 
-<img src="./public/database/mysql.svg" alt="mysql" width="45" height="45"/>
-<img src="./public/database/mongodb.svg" alt="mongo" width="45" height="45"/>
-<img src="./public/database/firebase.svg" alt="firebase" width="45" height="45"/>
 </p>
 
 <h2>Cloud</h2>
@@ -71,10 +60,6 @@
 <img src="https://img.shields.io/badge/Docker-black?logo=docker&logoColor=blue" alt="docker"/>
 
 <img src="https://img.shields.io/badge/GitLab-black?logo=gitlab&logoColor=orange" />
-
-<img src="./public/cloud/amazon.svg" alt="amzon" width="45" height="45"/>
-<img src="./public/cloud/docker.svg" alt="docker" width="45" height="45"/>
-<img src="./public/cloud/gitlab.svg" alt="gtlab" width="45" height="45"/>
 </p>
 
 <!---
