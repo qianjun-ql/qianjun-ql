@@ -62,7 +62,7 @@
 
 ---
 <h2>Stats</h2>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=qianjun-ql&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&exclude_repo=qianjun-ql&text_color=000&icon_color=fff&bg_color=0,F3E6CB,FFD0B4,FFA2A2&theme=graywhite" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=qianjun-ql&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&exclude_repo=qianjun-ql&text_color=000&icon_color=fff&bg_color=0,E0D2FF,FFD0B4,FFA2A2&theme=graywhite" />
 <!---
 qianjun-ql/qianjun-ql is a ✨ special ✨ repository because i< img src="this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
