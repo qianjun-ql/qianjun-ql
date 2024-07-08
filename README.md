@@ -99,10 +99,10 @@ techCommunities:
 ---
 <h2>Full-Stack Projects</h2>
     <a href="https://github.com/qianjun-ql/ecommerce-front">
-  <img height="30" src="https://img.shields.io/badge/Next.js-Ecommerce%3A%20client side-blue"/>
+  <img height="20" src="https://img.shields.io/badge/Next.js-Ecommerce%3A%20client side-blue"/>
     </a>
         <a href="https://github.com/qianjun-ql/ecommerce-admin">
-  <img height="30" src="https://img.shields.io/badge/Next.js-Ecommerce%3A%20admin-blue"/>
+  <img height="20" src="https://img.shields.io/badge/Next.js-Ecommerce%3A%20admin-blue"/>
     </a>
 
 
