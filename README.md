@@ -14,7 +14,7 @@
       <img height="30" src="./public/social/gmail.png"/>
 </a>
         <a href="https://qianjun-ql.github.io/">
-      <img height="30" src="./public/social/gmail.png"/>
+      <img height="30" src="./public/social/personalWeb.jpg"/>
 </a>
 </p>
 
