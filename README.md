@@ -90,10 +90,10 @@ techCommunities:
 
 <h2>Cloud Services</h2>
 <p align="left">
-<img src="https://img.shields.io/badge/AmazonS3-black?logo=amazons3&logoColor=orange" alt="amazon"/>
-<img src="https://img.shields.io/badge/GoogleCloud-black?logo=googlecloud&logoColor=blue" alt="gg"/>
-<img src="https://img.shields.io/badge/Docker-black?logo=docker&logoColor=blue" alt="docker"/>
-<img src="https://img.shields.io/badge/GitLab-black?logo=gitlab&logoColor=orange" />
+<img src="https://img.shields.io/badge/AmazonS3-black?logo=amazons3&logoColor=orange" alt="amazon" height="25"/>
+<img src="https://img.shields.io/badge/GoogleCloud-black?logo=googlecloud&logoColor=blue" alt="gg" height="25"/>
+<img src="https://img.shields.io/badge/Docker-black?logo=docker&logoColor=blue" alt="docker" height="25"/>
+<img src="https://img.shields.io/badge/GitLab-black?logo=gitlab&logoColor=orange" height="25"/>
 </p>
 
 ---
