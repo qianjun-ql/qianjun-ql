@@ -4,7 +4,7 @@
 
 
 <h1 align="center">
-  Let's Connect!💬
+  Let's Connect!
 </h1>
 <p align="center">
     <a href="https://www.linkedin.com/in/qianjun-liang">
