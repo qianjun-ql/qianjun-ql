@@ -10,11 +10,9 @@
     <a href="https://www.linkedin.com/in/qianjun-liang">
   <img height="30" src="./public/social/linkedin.png"/>
     </a>
-
-        <a href="mailto:qianjunliang.ql@gmail.com">
-  <img height="30" src="./public/social/gmail.png"/>
+    <a href="mailto:qianjunliang.ql@gmail.com">
+      <img height="30" src="./public/social/gmail.png"/>
 </a>
-
 </p>
 
 
