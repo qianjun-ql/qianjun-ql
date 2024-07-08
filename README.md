@@ -11,10 +11,12 @@
   <img height="30" src="./public/social/linkedin.png"/>
 </a>
 </p>
-
-    <a href="mailto:qianjunliang.ql@gmail.com">
+<p align="center">
+        <a href="mailto:qianjunliang.ql@gmail.com">
   <img height="30" src="./public/social/gmail.png"/>
 </a>
+</p>
+
 
 
 
