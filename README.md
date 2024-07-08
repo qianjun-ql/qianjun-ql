@@ -9,13 +9,13 @@
 <p align="center">
     <a href="https://www.linkedin.com/in/qianjun-liang">
   <img height="30" src="./public/social/linkedin.png"/>
-</a>
-</p>
+</a><br>
 <p align="center">
         <a href="mailto:qianjunliang.ql@gmail.com">
   <img height="30" src="./public/social/gmail.png"/>
 </a>
 </p>
+
 
 
 
