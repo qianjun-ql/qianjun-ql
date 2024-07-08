@@ -63,10 +63,10 @@ techCommunities:
 
 <h2>Languages I have been using</h2>
 <p align="left">
-<img src="https://img.shields.io/badge/JavaScript-black?logo=javascript&logoColor=yellow" alt="js"/>
-<img src="https://img.shields.io/badge/TypeScript-black?logo=typescript&logoColor=blue" alt="ts"/>
-<img src="https://img.shields.io/badge/Java-black?logoColor=blue" alt="java"/>
-<img src="https://img.shields.io/badge/Python-black?logo=python&logoColor=blue" alt="python"/>
+<img src="https://img.shields.io/badge/JavaScript-black?logo=javascript&logoColor=yellow" alt="js" height="25"/>
+<img src="https://img.shields.io/badge/TypeScript-black?logo=typescript&logoColor=blue" alt="ts" height="25"/>
+<img src="https://img.shields.io/badge/Java-black?logoColor=blue" alt="java" height="25"/>
+<img src="https://img.shields.io/badge/Python-black?logo=python&logoColor=blue" alt="python"height="25"/>
 </p>
 
 <h2>Frameworks</h2>
@@ -99,10 +99,10 @@ techCommunities:
 ---
 <h2>Full-Stack Projects</h2>
     <a href="https://github.com/qianjun-ql/ecommerce-front">
-  <img height="20" src="https://img.shields.io/badge/Next.js-Ecommerce%3A%20client side-blue"/>
+  <img height="25" src="https://img.shields.io/badge/Next.js-Ecommerce%3A%20client side-blue"/>
     </a>
         <a href="https://github.com/qianjun-ql/ecommerce-admin">
-  <img height="20" src="https://img.shields.io/badge/Next.js-Ecommerce%3A%20admin-blue"/>
+  <img height="25" src="https://img.shields.io/badge/Next.js-Ecommerce%3A%20admin-blue"/>
     </a>
 </p>
 
