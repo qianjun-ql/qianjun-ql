@@ -104,9 +104,8 @@ techCommunities:
         <a href="https://github.com/qianjun-ql/ecommerce-admin">
   <img height="20" src="https://img.shields.io/badge/Next.js-Ecommerce%3A%20admin-blue"/>
     </a>
-
-
 </p>
+
 ---
 <h2>My Stats</h2>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=qianjun-ql&hide=html&hide_border=true&layout=compact&langs_count=6&exclude_repo=qianjun-ql&text_color=000&icon_color=fff&bg_color=0,E0D2FF,FFD0B4,FFA2A2&theme=graywhite" />
