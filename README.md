@@ -10,11 +10,11 @@
     <a href="https://www.linkedin.com/in/qianjun-liang">
   <img height="30" src="./public/social/linkedin.png"/>
     </a>
-<span>
+
         <a href="mailto:qianjunliang.ql@gmail.com">
   <img height="30" src="./public/social/gmail.png"/>
 </a>
-</span>
+
 </p>
 
 
@@ -23,7 +23,7 @@
 
 ---
 
-<h2>Learn more about me</h2>
+<h2>About Me</h2>
 
 ```yaml
 name: Qianjun(Cheryl) Liang
@@ -96,10 +96,10 @@ techCommunities:
 </p>
 
 ---
-<h2>Full-stack Projects</h2>
+<h2>Full-Stack Projects</h2>
 
 ---
-<h2>I like to write in</h2>
+<h2>My Stats</h2>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=qianjun-ql&hide=html&hide_border=true&layout=compact&langs_count=6&exclude_repo=qianjun-ql&text_color=000&icon_color=fff&bg_color=0,E0D2FF,FFD0B4,FFA2A2&theme=graywhite" />
 
 
