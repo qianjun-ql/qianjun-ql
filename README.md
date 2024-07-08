@@ -13,6 +13,9 @@
     <a href="mailto:qianjunliang.ql@gmail.com">
       <img height="30" src="./public/social/gmail.png"/>
 </a>
+        <a href="https://qianjun-ql.github.io/">
+      <img height="30" src="./public/social/gmail.png"/>
+</a>
 </p>
 
 
