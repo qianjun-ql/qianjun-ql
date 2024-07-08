@@ -8,13 +8,13 @@
 </h1>
 <p align="center">
     <a href="https://www.linkedin.com/in/qianjun-liang">
-  <img height="30" src="./public/social/linkedin.png"/>
+  <img height="50" src="./public/social/linkedin.png"/>
     </a>
     <a href="mailto:qianjunliang.ql@gmail.com">
-      <img height="30" src="./public/social/gmail.png"/>
+      <img height="50" src="./public/social/gmail.png"/>
 </a>
         <a href="https://qianjun-ql.github.io/">
-      <img height="30" src="./public/social/personalWeb.jpg"/>
+      <img height="50" src="./public/social/personalWeb.jpg"/>
 </a>
 </p>
 
