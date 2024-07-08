@@ -117,10 +117,10 @@ techCommunities:
 </p>
 <p>
     <a href="https://github.com/qianjun-ql/react-qj-social">
-  <img height="25" src="https://img.shields.io/badge/Spring-Social%20App%3A%20backend-blue"/>
+  <img height="25" src="https://img.shields.io/badge/React-Social%20App%3A%20frontend-blue"/>
     </a>
         <a href="https://github.com/qianjun-ql/spring-qj-social">
-  <img height="25" src="https://img.shields.io/badge/React-Social%20App%3A%20frontend-blue"/>
+  <img height="25" src="https://img.shields.io/badge/Spring-Social%20App%3A%20backend-blue"/>
     </a>
 </p>
 <p>
