@@ -18,10 +18,6 @@
 </a>
 </p>
 
-
-
-
-
 ---
 
 <h2>About Me</h2>
@@ -98,11 +94,38 @@ techCommunities:
 
 ---
 <h2>Full-Stack Projects</h2>
+<p>
     <a href="https://github.com/qianjun-ql/ecommerce-front">
-  <img height="25" src="https://img.shields.io/badge/Next.js-Ecommerce%3A%20client side-blue"/>
+  <img height="25" src="https://img.shields.io/badge/Next.js-Ecommerce%3A%20client%20side-blue"/>
     </a>
         <a href="https://github.com/qianjun-ql/ecommerce-admin">
   <img height="25" src="https://img.shields.io/badge/Next.js-Ecommerce%3A%20admin-blue"/>
+    </a>
+</p>
+<p>
+    <a href="https://github.com/qianjun-ql/library-management">
+  <img height="25" src="https://img.shields.io/badge/React%2FNode.js-Library%20Management%20System-blue"/>
+    </a>
+</p>
+<p>
+    <a href="https://github.com/qianjun-ql/angular-blog-app">
+  <img height="25" src="https://img.shields.io/badge/Angular-Blog%20App-blue"/>
+    </a>
+        <a href="https://github.com/qianjun-ql/angular-blog-admin">
+  <img height="25" src="https://img.shields.io/badge/Angular-Blog%20Admin-blue"/>
+    </a>
+</p>
+<p>
+    <a href="https://github.com/qianjun-ql/react-qj-social">
+  <img height="25" src="https://img.shields.io/badge/Spring-Social%20App%3A%20backend-blue"/>
+    </a>
+        <a href="https://github.com/qianjun-ql/spring-qj-social">
+  <img height="25" src="https://img.shields.io/badge/React-Social%20App%3A%20frontend-blue"/>
+    </a>
+</p>
+<p>
+    <a href="https://github.com/qianjun-ql/doctor-appointment">
+  <img height="25" src="https://img.shields.io/badge/React%2FNode.js-Appointment%20Management%20System-blue"/>
     </a>
 </p>
 
