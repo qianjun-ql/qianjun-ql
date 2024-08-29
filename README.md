@@ -130,12 +130,6 @@ techCommunities:
 </p>
 
 ---
-<h2>Recent Activities</h2>
-<!--START_SECTION:activity-->
-
-<!--END_SECTION:activity-->
-
----
 <h2>My Stats</h2>
 
   <img height=200 src="https://streak-stats.demolab.com/?user=qianjun-ql&theme=buefy" />
