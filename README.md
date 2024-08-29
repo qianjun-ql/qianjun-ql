@@ -54,6 +54,8 @@ techCommunities:
     "4. Get familiar with Kubernetes"
   ]
 ```
+---
+<!--START_SECTION:activity-->
 
 ---
 
