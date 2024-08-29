@@ -132,6 +132,7 @@ techCommunities:
 ---
 <h2>My Stats</h2>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=qianjun-ql&hide=html&hide_border=true&layout=compact&langs_count=6&exclude_repo=qianjun-ql&text_color=000&icon_color=fff&bg_color=0,E0D2FF,FFD0B4,FFA2A2&theme=graywhite" />
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=qianjun-ql&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <p align="center">
         <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&width=100&section=footer" />
