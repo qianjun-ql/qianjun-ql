@@ -55,16 +55,6 @@ techCommunities:
   ]
 ```
 ---
-<h2>Recent Activities</h2>
-<!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/qianjun-ql/nim-backend/pull/2) in [qianjun-ql/nim-backend](https://github.com/qianjun-ql/nim-backend)
-2. 💪 Opened PR [#2](https://github.com/qianjun-ql/nim-backend/pull/2) in [qianjun-ql/nim-backend](https://github.com/qianjun-ql/nim-backend)
-3. 🎉 Merged PR [#1](https://github.com/qianjun-ql/nim-backend/pull/1) in [qianjun-ql/nim-backend](https://github.com/qianjun-ql/nim-backend)
-4. 💪 Opened PR [#1](https://github.com/qianjun-ql/nim-backend/pull/1) in [qianjun-ql/nim-backend](https://github.com/qianjun-ql/nim-backend)
-<!--END_SECTION:activity-->
-
----
-
 <h2>Languages I have been using</h2>
 <p align="left">
 <img src="https://img.shields.io/badge/JavaScript-black?logo=javascript&logoColor=yellow" alt="js" height="25"/>
@@ -136,6 +126,17 @@ techCommunities:
   <img height="25" src="https://img.shields.io/badge/React%2FNode.js-Appointment%20Management%20System-blue"/>
     </a>
 </p>
+
+---
+<h2>Recent Activities</h2>
+
+
+<!--START_SECTION:activity-->
+1. 🎉 Merged PR [#2](https://github.com/qianjun-ql/nim-backend/pull/2) in [qianjun-ql/nim-backend](https://github.com/qianjun-ql/nim-backend)
+2. 💪 Opened PR [#2](https://github.com/qianjun-ql/nim-backend/pull/2) in [qianjun-ql/nim-backend](https://github.com/qianjun-ql/nim-backend)
+3. 🎉 Merged PR [#1](https://github.com/qianjun-ql/nim-backend/pull/1) in [qianjun-ql/nim-backend](https://github.com/qianjun-ql/nim-backend)
+4. 💪 Opened PR [#1](https://github.com/qianjun-ql/nim-backend/pull/1) in [qianjun-ql/nim-backend](https://github.com/qianjun-ql/nim-backend)
+<!--END_SECTION:activity-->
 
 ---
 <h2>My Stats</h2>
