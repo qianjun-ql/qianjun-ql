@@ -132,10 +132,10 @@ techCommunities:
 
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#5](https://github.com/qianjun-ql/django-ql-bnb/pull/5) in [qianjun-ql/django-ql-bnb](https://github.com/qianjun-ql/django-ql-bnb)
-2. 💪 Opened PR [#5](https://github.com/qianjun-ql/django-ql-bnb/pull/5) in [qianjun-ql/django-ql-bnb](https://github.com/qianjun-ql/django-ql-bnb)
-3. 🎉 Merged PR [#4](https://github.com/qianjun-ql/django-ql-bnb/pull/4) in [qianjun-ql/django-ql-bnb](https://github.com/qianjun-ql/django-ql-bnb)
-4. 💪 Opened PR [#4](https://github.com/qianjun-ql/django-ql-bnb/pull/4) in [qianjun-ql/django-ql-bnb](https://github.com/qianjun-ql/django-ql-bnb)
+1. 🎉 Merged PR [#6](https://github.com/qianjun-ql/django-ql-bnb/pull/6) in [qianjun-ql/django-ql-bnb](https://github.com/qianjun-ql/django-ql-bnb)
+2. ❌ Reopened PR [#6](https://github.com/qianjun-ql/django-ql-bnb/pull/6) in [qianjun-ql/django-ql-bnb](https://github.com/qianjun-ql/django-ql-bnb)
+3. ❌ Closed PR [#6](https://github.com/qianjun-ql/django-ql-bnb/pull/6) in [qianjun-ql/django-ql-bnb](https://github.com/qianjun-ql/django-ql-bnb)
+4. 💪 Opened PR [#6](https://github.com/qianjun-ql/django-ql-bnb/pull/6) in [qianjun-ql/django-ql-bnb](https://github.com/qianjun-ql/django-ql-bnb)
 <!--END_SECTION:activity-->
 
 ---
