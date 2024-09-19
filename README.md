@@ -36,11 +36,10 @@ interests:
 technicalBackground:
   [
     "Full-Stack Developer",
-    "Front-End Developer",
     "Product Manager"
   ]
   
-currentFocus: ["Spring Boot, Django"]
+currentFocus: ["ASP.NET, Django"]
 techCommunities:
   [
     "Tech Connect Alberta",
@@ -48,7 +47,7 @@ techCommunities:
   ]
 2024 Goals: [
   [
-    "1. Deploy at least 1 Spring Boot project",
+    "1. Deploy at least 1 .NET project",
     "2. Complete at least 1 Django project",
     "3. Get proficient with testing tools like JEST, Cypress"
     "4. Get familiar with Kubernetes"
@@ -60,6 +59,7 @@ techCommunities:
 <img src="https://img.shields.io/badge/JavaScript-black?logo=javascript&logoColor=yellow" alt="js" height="25"/>
 <img src="https://img.shields.io/badge/TypeScript-black?logo=typescript&logoColor=blue" alt="ts" height="25"/>
 <img src="https://img.shields.io/badge/Java-black?logoColor=blue" alt="java" height="25"/>
+<img src="https://img.shields.io/badge/CSharp-black?logoColor=blue" alt="C#" height="25"/>
 <img src="https://img.shields.io/badge/Python-black?logo=python&logoColor=blue" alt="python"height="25"/>
 </p>
 
@@ -68,6 +68,8 @@ techCommunities:
 <img src="https://img.shields.io/badge/React-black?logo=react&logoColor=blue" alt="react" height="25"/>
 <img src="https://img.shields.io/badge/Redux-black?logo=redux&logoColor=blue" alt="redux" height="25"/>
 <img src="https://img.shields.io/badge/Nodejs-black?logo=nodedotjs&logoColor=green" alt="nodejs" height="25"/>
+<img src="https://img.shields.io/badge/ASP.NET-black?logo=dotnet&logoColor=purple" alt="nodejs" height="25"/>
+<img src="https://img.shields.io/badge/Django-black?logo=django&logoColor=blue" alt="nodejs" height="25"/>
 <img src="https://img.shields.io/badge/Spring%20Boot-black?logo=springboot&logoColor=green" alt="nodejs" height="25"/>
 <img src="https://img.shields.io/badge/Angular-black?logo=angular&logoColor=orange" alt="angular" height="25"/>
 <img src="https://img.shields.io/badge/Bootstrap-black?logo=bootstrap&logoColor=blue" alt="bootstrap" height="25"/>
@@ -78,6 +80,8 @@ techCommunities:
 <p align="left">
 <img src="https://img.shields.io/badge/MongoDB-black?logo=mongodb&logoColor=green" alt="mongo" height="25"/>
 <img src="https://img.shields.io/badge/MySQL-black?logo=mysql&logoColor=blue"  alt="mysql" height="25"/>
+<img src="https://img.shields.io/badge/MSSQL-black"  alt="mysql" height="25"/>
+<img src="https://img.shields.io/badge/Postgre-black?logo=postgresql&logoColor=blue"  alt="mysql" height="25"/>
 <img src="https://img.shields.io/badge/Firebase-black?logo=firebase&logoColor=yellow" alt="firebase" height="25"/>
 
 </p>
